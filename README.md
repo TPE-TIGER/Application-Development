@@ -53,7 +53,8 @@ If you need to use REST API to interactive with AIG, an API token should be crea
 4. [(Example) Scheduled Operation Task 2 (by code)](./documents/function/Scheduled-Operation-Task-2.md)
 5. [(Example) Enable onChange Feature on TagHub](./documents/function/Enable-onChange-Feature-on-TagHub.md)
 6. [(Example) Import Modbus Configuration File by Azure IoT Hub Direct Method](documents/function/Import-Modbus-Config-by-Azure-IoT-Hub-Direct-Method.md)
-7. [(Example) Virtual Tags by Hopping Window]("documents/function/Virtual-Tags-by-Hopping-Window.md)
+7. [(Example) Virtual Tags by Hopping Window](./documents/function/Virtual-Tags-by-Hopping-Window.md)
+8. [(Example) Customize MQTT topic for updating tag values](./documents/function/Customize-MQTT-topic-for-updating-tag-values.md)
 
 ### Docker Container
 
